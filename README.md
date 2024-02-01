@@ -1,6 +1,6 @@
 ## Hi there , Oi eu sou Pietro!👋
 
- - 🔭 I’m currently working on Grand Prix Senai (estou trabalhando atualmente no Grand Prix Senai);
+ - 🔭 I’m currently working on my own site (estou trabalhando atualmente em meu próprio site);
 - 🌱 I’m currently learning JavaScrypt , CSS , Visual Studio and MUI (estou atualmente aprendendo JavaScrypt , CSS , Visual Studio e MUI);
 - 🤔 I’m looking for help with learn about everything (Aceito ajuda para aprender sobre tudo);
 - 📫 How to reach me: contact pietroti453@gmail.com (Me contate no email: pietroti453@gmail.com);
