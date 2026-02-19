@@ -6,11 +6,16 @@
 
 ###
 
-<h2 align="left">About me 🖥️:</h2>
+<h2 align="left" >About me 🖥️:</h2>
 
 ###
 
-<p align="left">✨ Creating solutions since 2023 <br>📚 I'm currently learning C#, NoSQL and System Architecture  <br>🎯 Goals: Become a full-stack developer and work on scalable systems and data<br>🎲 Fun fact: I started my journey creating content on YouTube at 14</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+<p align="left">✨ Creating solutions since 2023 <br>📚 I'm currently learning C#, NoSQL and System Architecture  <br>🎯 Goals: Become a full-stack developer and work on scalable systems and data<br>🎲 Fun fact: I started my journey creating content on YouTube at 14 and i develop games too<br>🧠 Hobbies: Study/Work with my passions, pratice sports and play games!</p>
+ 
+ <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWh0bW9ydmlhNmN2ejEwaG02cWIxamczb2d2YTNmYnJ6c3d5cTAzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mlBDoVLOGidEc/giphy.gif"  />
+</div>
 
 ###
 
