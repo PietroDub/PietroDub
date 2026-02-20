@@ -3,6 +3,8 @@
 ###
 
 <p align="left">I'm a Fullstack Developer from Brazil 🇧🇷, in progress 📶</p>
+<p align="left">Formed in ADS for SENAI - SP 🏁 </p>
+<p align="left">Currently studying Software Engineering at Unisagrado and Multiplatform Software Development on FATEC 💻</p>
 
 ###
 
