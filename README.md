@@ -5,6 +5,7 @@
 <p align="left">I'm a Fullstack Developer from Brazil 🇧🇷, in progress 📶</p>
 <p align="left">Formed in ADS for SENAI - SP 🏁 </p>
 <p align="left">Currently studying Software Engineering at Unisagrado and Multiplatform Software Development on FATEC 💻</p>
+<p align="left">Working as Software Developer Intern on Alboompro since 2026,oct</p>
 
 ###
 
