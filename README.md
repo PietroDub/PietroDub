@@ -51,6 +51,12 @@ Tools & workflow
 </p>
 
 Also using OrbStack for local container workflows.
+GitHub stats 📊
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Pietrodub&amp;show_icons=true&amp;theme=nightowl&amp;hide_border=true" height="180" alt="Pietro Vito's GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pietrodub&amp;hide=Jupyter%20Notebook&amp;layout=compact&amp;langs_count=8&amp;theme=nightowl&amp;hide_border=true" height="180" alt="Most used languages in Pietro Vito's repositories" />
+</p>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pietrodub&amp;locale=en&amp;mode=daily&amp;theme=nightowl&amp;hide_border=false&amp;border_radius=5" height="150" alt="Pietro Vito's GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Pietrodub&amp;locale=en&amp;mode=daily&amp;theme=nightowl&amp;hide_border=true&amp;border_radius=5" height="150" alt="Pietro Vito's GitHub contribution streak" />
 </div>
